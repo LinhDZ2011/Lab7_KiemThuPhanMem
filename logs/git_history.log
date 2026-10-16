@@ -1,0 +1,6 @@
+﻿* 16b1aa7 - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:39:48 2026 +0700): Fix syntax error to restore build and add HTML coverage artifact step
+* 74637ca - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:38:52 2026 +0700): Intentionally introduce syntax error to break the build (Fail-Fast demo)
+* 5555711 - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:37:06 2026 +0700): Implement TestMediumLevel and TestHardLevel with GPS mocking, reaching 100% coverage
+* bb757c1 - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:33:01 2026 +0700): Enable Quality Gate with linter and coverage threshold 80 percent
+* 2649b32 - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:30:24 2026 +0700): Add basic CI pipeline workflow
+* 2654fc8 - 2312664 - HoangTrinhVietLinh (Fri Oct 16 15:29:22 2026 +0700): Init yummyapp project with basic source code and local test log
